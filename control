@@ -1,7 +1,7 @@
 Package: com.aehmlo.anoncloud
 Name: AnonCloud
-Depends: mobilesubstrate
 Version: 0.0.1
+Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
 Description: Removes the avatar from iCloud-related preference cells in the root list view.
 Maintainer: Alex
